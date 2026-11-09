@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4361EE</color>
+    <color name="colorPrimaryDark">#3A0CA3</color>
+    <color name="colorAccent">#4CC9F0</color>
+    <color name="statusBarColor">{{STATUS_BAR_COLOR}}</color>
+</resources>

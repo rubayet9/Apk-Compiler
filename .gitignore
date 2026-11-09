@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build outputs
+build/
+build_temp/
+dist/
+*.manifest
+
+# Downloaded / Bundled Tools (Adoptium JDK and Android SDK binaries)
+tools/
+
+# Android build outputs & local config
+.gradle/
+*.apk
+*.ap_
+*.aab
+*.dex
+local.properties
+
+# Logs and runtime output
+*.log
+last_build.log
+
+# Temporary / Scratch assets
+assets/inspect_*.png
+
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# IDEs & Editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
